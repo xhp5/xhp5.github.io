@@ -1,6 +1,6 @@
 # xhp5.github.io
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <h1>Making your own yoghurt</h1>
