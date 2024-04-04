@@ -16,7 +16,7 @@
 </article>
 
 <section>
-  <h2>Here´s what you´ll need for homemade yoghurt</h2>
+  <h2>Here´s what you´ll need for homemade yoghurt&#127849;</h2>
   <ul>
     <li><input type="checkbox" id="culture" name="culture"> <label for="culture">Yogurt starter culture</label></li><br> 
     <li><input type="checkbox" id="milk" name="milk"> <label for="milk">Soy or cow milk</label></li><br> 
