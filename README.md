@@ -12,19 +12,28 @@
     <li>Making cheap, tasty and healthy vegan yoghurt with soy milk</li><br>
     <li>Having fun taking care of the bacteria</li>
   </ul>
+  <img src="https://images.unsplash.com/photo-1562114808-b4b33cf60f4f?q=80&w=1773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 </article>
-
-<img src="https://images.unsplash.com/photo-1562114808-b4b33cf60f4f?q=80&w=1773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 <section>
   <h2>Here´s what you´ll need for homemade yoghurt</h2>
-
-   <input type="checkbox" id="culture" name="culture"> <label for="culture">Yogurt starter culture</label>
-   <input type="checkbox" id="milk" name="milk"> <label for="milk">Soy or cow milk</label>
-   <input type="checkbox" id="thermometer" name="thermometer"> <label for="thermometer">Thermometer (a fever thermometer is fine)</label>
-   <input type="checkbox" id="flask" name="flask"> <label for="task3">Thermo flask (or a yoghurt maker if you have one)</label>
-
+  <ul>
+    <li><input type="checkbox" id="culture" name="culture"> <label for="culture">Yogurt starter culture</label></li>
+    <li><input type="checkbox" id="milk" name="milk"> <label for="milk">Soy or cow milk</label></li>
+    <li><input type="checkbox" id="thermometer" name="thermometer"> <label for="thermometer">Thermometer (a fever thermometer is fine)</label></li>
+    <li><input type="checkbox" id="flask" name="flask"> <label for="task3">Thermo flask (or a yoghurt maker if you have one)</label></li>
+  </ul> 
+  <br> 
   If you don´t have a yoghurt starter yet, you can buy them
   <a href="https://www.dragonspice.de/index.php">here</a>
 </section>
 
+<article>
+  <h2>Instructions</h2>
+  <ol>
+    <li>Heat the milk to 38-42 Degrees. Be careful to not heat it more than that, otherwise the good bacteria will die.</li>
+    <li>Mix the starter cultures in. With powder cultures, you will need just the amount that fits on the tip of a knife. With store yoghurt, you might need about four table spoons and with homemade yoghurt, you need one to two table spoons. Make sure to whisk well.</li>
+    <li>Pour the milk with the cultures into your flask or yoghurt maker.</li>
+    <li>Don´t move the container for 8 - 10 hours. After that, you can enjoy your homemade yoghurt!</li>
+  </ol>
+</article>
